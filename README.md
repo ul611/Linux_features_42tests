@@ -69,3 +69,7 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 3.3.	https://github.com/cacharle/ft_printf_test
 		
 		См. файл ft_printf_test_result_for_Linux.log
+
+По вопросам и предложениям улучшения статьи: 
+- slack: @twilford
+- telegram: @cululi
