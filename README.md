@@ -2,7 +2,7 @@
 
 _Некоторые особенности написания кода и запуска популярных юнит-тестов проектов Libft, Get Next Line и Ft_printf на Linux._
 
-0. Некоторые man на MacOS отличаются от man на Linux. В основном, отличия незначительны, 
+**0.** Некоторые man на MacOS отличаются от man на Linux. В основном, отличия незначительны, 
 но лучше гуглить "man macOS <функция>", чтобы ничего не упустить (или не сделать лишнего).
 
 Например, в функции calloc() для Linux указано дополнительное ограничение на максимальный
@@ -16,11 +16,11 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 
 #### 1. Libft
 
-1.1. 	https://github.com/jtoty/Libftest
+**1.1.** 	https://github.com/jtoty/Libftest
 		
 		Максимально дружелюбный тест.
 
-1.2.	https://github.com/alelievr/libft-unit-test
+**1.2.**	https://github.com/alelievr/libft-unit-test
 		
 		для данного теста:
 		
