@@ -1,4 +1,4 @@
-# Linux_features_42tests
+## Linux_features_42tests
 
 _Некоторые особенности написания кода и запуска популярных юнит-тестов проектов Libft, Get Next Line и Ft_printf на Linux._
 
@@ -12,9 +12,9 @@ overflow, then calloc() returns an error), чего нет в мануале д�
 Первая ссылка в гугле будет выглядеть примерно так:
 https://developer.apple.com/library/archive/documentation/System/Conceptual/ManPages_iPhoneOS/man3/calloc.3.html
 
-*Проекты.*
+#### Проекты.
 
-1. Libft
+#### 1. Libft
 
 1.1. 	https://github.com/jtoty/Libftest
 		
@@ -40,7 +40,7 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 		Спойлер: как Мулинетт, так и тесты, очень поверхностно проверяют бонусную часть. 
 
 
-2. Get next line
+#### 2. Get next line
 
 2.1.	https://github.com/mrjvs/42cursus_gnl_tests
 		
@@ -55,7 +55,7 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 		Еще раз проверить все на утечки при помощи valgrind
 
 
-3. Ft_printf
+#### 3. Ft_printf
 
 		Скорее всего, любой тест, который вы захотите запустить, запустится.
 		Из-за определенных особенностей вывода стандартного printf на Линуксе, некоторые тестовые случаи будут фейлиться.
