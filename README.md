@@ -48,7 +48,7 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 		
 **2.2.**	https://github.com/charMstr/GNL_lover
 		
-		Тест, прохождение которого _на Линуксе_ практически гарантирует вам успешную сдачу проекта Мулинетт.
+		Тест, прохождение которого на Линуксе практически гарантирует вам успешную сдачу проекта Мулинетт.
 		
 **2.3.**	
 		
