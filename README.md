@@ -2,7 +2,7 @@
 
 _Некоторые особенности написания кода и запуска популярных юнит-тестов проектов Libft, Get Next Line и Ft_printf на Linux._
 
-*0.* Некоторые man на MacOS отличаются от man на Linux. В основном, отличия незначительны, 
+0. Некоторые man на MacOS отличаются от man на Linux. В основном, отличия незначительны, 
 но лучше гуглить "man macOS <функция>", чтобы ничего не упустить (или не сделать лишнего).
 
 Например, в функции calloc() для Linux указано дополнительное ограничение на максимальный
@@ -14,13 +14,13 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 
 *Проекты.*
 
-*1. Libft*
+1. Libft
 
-*1.1.* 	https://github.com/jtoty/Libftest
+1.1. 	https://github.com/jtoty/Libftest
 		
 		Максимально дружелюбный тест.
 
-*1.2.*	https://github.com/alelievr/libft-unit-test
+1.2.	https://github.com/alelievr/libft-unit-test
 		
 		для данного теста:
 		
@@ -33,24 +33,26 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 		
 		- устанавливаем пакеты clang, build-essential, autoconf, libncurses-dev, libbsd-dev.
 		
-*1.3.*	Стандартно стоит проверить проект на утечки, например, при помощи valgrind
+1.3.	Стандартно стоит проверить проект на утечки, например, при помощи valgrind
 		
 		Стоит иметь в виду, что прохождение данных тестов не может гарантировать успешной сдачи либы.
 		
 		Спойлер: как Мулинетт, так и тесты, очень поверхностно проверяют бонусную часть. 
 
 
-*2. Get next line*
+2. Get next line
 
-*2.1.*	https://github.com/mrjvs/42cursus_gnl_tests
+2.1.	https://github.com/mrjvs/42cursus_gnl_tests
 		
 		Максимально дружелюбный тест.
 		
-*2.2.*	https://github.com/charMstr/GNL_lover
+2.2.	https://github.com/charMstr/GNL_lover
 		
 		Тест, прохождение которого _на Линуксе_ практически гарантирует вам успешную сдачу проекта Мулинетт.
 		
-*2.3.*	Еще раз проверить все на утечки при помощи valgrind
+2.3.	
+		
+		Еще раз проверить все на утечки при помощи valgrind
 
 
 3. Ft_printf
@@ -64,16 +66,16 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 		Вы можете сравнить дифф, представленный ниже, с диффом вашего проекта.
 		Если они совпадают, то все хорошо, и на Mac ваша функция пройдет тест как надо.
 
-*3.1.*	https://github.com/Mazoise/42TESTERS-PRINTF
+3.1.	https://github.com/Mazoise/42TESTERS-PRINTF
 		
 		См. файл 42TESTERS-PRINTF_diff_for_Linux.txt
 		
-*3.2.*	https://github.com/gavinfielder/pft
+3.2.	https://github.com/gavinfielder/pft
 
 		См. файл ptf_results_for_Linux.txt
 		Номера тестов, которые фейлятся (их можно отключить): 7 8 9 10 91 113 114 117 118 173 178 647 4192 4193 4194 4205 4206
 		
-*3.3.*	https://github.com/cacharle/ft_printf_test
+3.3.	https://github.com/cacharle/ft_printf_test
 		
 		См. файл ft_printf_test_result_for_Linux.log
 
