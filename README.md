@@ -82,6 +82,5 @@ https://developer.apple.com/library/archive/documentation/System/Conceptual/ManP
 По вопросам и предложениям улучшения статьи: 
 
 - slack: @twilford
-- telegram: @cululi
 
 Отдельную благодарность хочется выразить всем создателям указанных тестов <3
